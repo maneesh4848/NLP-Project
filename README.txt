@@ -6,7 +6,7 @@ Name:TSV Maneesh(201201183) & B.Chaitanya(201101163)
 ----------------
  Operating System               :       LINUX (tested on >= Fedora-19 , >= Ubuntu 10.04)
 
- Compiler/Interpreter/Librarie(s):      g++ / Perl / Java / Python
+ Compiler/Interpreter/Librarie(s):      Python, NLTK, Perl 
 
 2- Directory Structure:
 -----------------------
